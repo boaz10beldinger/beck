@@ -1,0 +1,2967 @@
+,ID,Label
+0,50,hate speech
+1,51,hate speech
+2,52,hate speech
+3,53,hate speech
+4,54,hate speech
+5,55,hate speech
+6,56,hate speech
+7,57,not hate speech
+8,58,not hate speech
+9,59,not hate speech
+10,60,not hate speech
+11,61,not hate speech
+12,62,hate speech
+13,63,not hate speech
+14,64,not hate speech
+15,65,hate speech
+16,66,hate speech
+17,67,hate speech
+18,68,hate speech
+19,69,not hate speech
+20,70,not hate speech
+21,71,not hate speech
+22,72,not hate speech
+23,73,not hate speech
+24,74,not hate speech
+25,75,hate speech
+26,76,hate speech
+27,77,hate speech
+28,78,not hate speech
+29,79,not hate speech
+30,80,hate speech
+31,81,not hate speech
+32,82,hate speech
+33,83,not hate speech
+34,84,not hate speech
+35,85,not hate speech
+36,86,hate speech
+37,87,not hate speech
+38,88,not hate speech
+39,89,not hate speech
+40,90,not hate speech
+41,91,not hate speech
+42,92,not hate speech
+43,93,hate speech
+44,94,not hate speech
+45,95,not hate speech
+46,96,not hate speech
+47,97,not hate speech
+48,98,not hate speech
+49,99,hate speech
+50,100,not hate speech
+51,101,not hate speech
+52,102,not hate speech
+53,103,not hate speech
+54,104,hate speech
+55,105,hate speech
+56,106,hate speech
+57,107,hate speech
+58,108,not hate speech
+59,109,not hate speech
+60,110,not hate speech
+61,111,not hate speech
+62,112,hate speech
+63,113,not hate speech
+64,114,hate speech
+65,115,hate speech
+66,116,not hate speech
+67,117,hate speech
+68,118,not hate speech
+69,119,hate speech
+70,120,not hate speech
+71,121,not hate speech
+72,122,hate speech
+73,123,not hate speech
+74,124,not hate speech
+75,125,not hate speech
+76,126,not hate speech
+77,127,not hate speech
+78,128,hate speech
+79,129,not hate speech
+80,130,hate speech
+81,131,hate speech
+82,132,not hate speech
+83,133,not hate speech
+84,134,hate speech
+85,135,not hate speech
+86,136,not hate speech
+87,137,hate speech
+88,138,hate speech
+89,139,not hate speech
+90,140,not hate speech
+91,141,hate speech
+92,142,not hate speech
+93,143,not hate speech
+94,144,not hate speech
+95,145,hate speech
+96,146,not hate speech
+97,147,hate speech
+98,148,hate speech
+99,149,not hate speech
+100,150,not hate speech
+101,151,hate speech
+102,152,not hate speech
+103,153,not hate speech
+104,154,not hate speech
+105,155,not hate speech
+106,156,not hate speech
+107,157,hate speech
+108,158,not hate speech
+109,159,hate speech
+110,160,not hate speech
+111,161,hate speech
+112,162,not hate speech
+113,163,not hate speech
+114,164,hate speech
+115,165,not hate speech
+116,166,not hate speech
+117,167,not hate speech
+118,168,not hate speech
+119,169,not hate speech
+120,170,not hate speech
+121,171,not hate speech
+122,172,not hate speech
+123,173,not hate speech
+124,174,hate speech
+125,175,not hate speech
+126,176,not hate speech
+127,177,not hate speech
+128,178,hate speech
+129,179,not hate speech
+130,180,hate speech
+131,181,not hate speech
+132,182,not hate speech
+133,183,not hate speech
+134,184,not hate speech
+135,185,not hate speech
+136,186,not hate speech
+137,187,hate speech
+138,188,hate speech
+139,189,not hate speech
+140,190,hate speech
+141,191,not hate speech
+142,192,not hate speech
+143,193,hate speech
+144,194,not hate speech
+145,195,not hate speech
+146,196,not hate speech
+147,197,not hate speech
+148,198,hate speech
+149,199,hate speech
+150,200,hate speech
+151,201,not hate speech
+152,202,hate speech
+153,203,not hate speech
+154,204,not hate speech
+155,205,not hate speech
+156,206,not hate speech
+157,207,hate speech
+158,208,hate speech
+159,209,hate speech
+160,210,not hate speech
+161,211,not hate speech
+162,212,not hate speech
+163,213,hate speech
+164,214,hate speech
+165,215,not hate speech
+166,216,not hate speech
+167,217,not hate speech
+168,218,hate speech
+169,219,not hate speech
+170,220,not hate speech
+171,221,hate speech
+172,222,not hate speech
+173,223,not hate speech
+174,224,not hate speech
+175,225,hate speech
+176,226,not hate speech
+177,227,not hate speech
+178,228,not hate speech
+179,229,not hate speech
+180,230,not hate speech
+181,231,not hate speech
+182,232,not hate speech
+183,233,not hate speech
+184,234,not hate speech
+185,235,not hate speech
+186,236,hate speech
+187,237,not hate speech
+188,238,hate speech
+189,239,hate speech
+190,240,hate speech
+191,241,hate speech
+192,242,not hate speech
+193,243,hate speech
+194,244,not hate speech
+195,245,hate speech
+196,246,hate speech
+197,247,not hate speech
+198,248,not hate speech
+199,249,not hate speech
+200,250,not hate speech
+201,251,not hate speech
+202,252,hate speech
+203,253,not hate speech
+204,254,not hate speech
+205,255,hate speech
+206,256,not hate speech
+207,257,not hate speech
+208,258,hate speech
+209,259,not hate speech
+210,260,not hate speech
+211,261,not hate speech
+212,262,hate speech
+213,263,not hate speech
+214,264,hate speech
+215,265,not hate speech
+216,266,not hate speech
+217,267,not hate speech
+218,268,hate speech
+219,269,not hate speech
+220,270,not hate speech
+221,271,hate speech
+222,272,not hate speech
+223,273,hate speech
+224,274,not hate speech
+225,275,not hate speech
+226,276,hate speech
+227,277,hate speech
+228,278,hate speech
+229,279,not hate speech
+230,280,not hate speech
+231,281,not hate speech
+232,282,hate speech
+233,283,hate speech
+234,284,not hate speech
+235,285,not hate speech
+236,286,not hate speech
+237,287,hate speech
+238,288,hate speech
+239,289,not hate speech
+240,290,hate speech
+241,291,hate speech
+242,292,hate speech
+243,293,not hate speech
+244,294,not hate speech
+245,295,not hate speech
+246,296,not hate speech
+247,297,not hate speech
+248,298,not hate speech
+249,299,not hate speech
+250,300,hate speech
+251,301,not hate speech
+252,302,not hate speech
+253,303,hate speech
+254,304,not hate speech
+255,305,hate speech
+256,306,not hate speech
+257,307,not hate speech
+258,308,hate speech
+259,309,not hate speech
+260,310,hate speech
+261,311,not hate speech
+262,312,not hate speech
+263,313,hate speech
+264,314,not hate speech
+265,315,not hate speech
+266,316,not hate speech
+267,317,not hate speech
+268,318,not hate speech
+269,319,not hate speech
+270,320,not hate speech
+271,321,hate speech
+272,322,hate speech
+273,323,hate speech
+274,324,not hate speech
+275,325,not hate speech
+276,326,not hate speech
+277,327,not hate speech
+278,328,not hate speech
+279,329,not hate speech
+280,330,not hate speech
+281,331,hate speech
+282,332,hate speech
+283,333,not hate speech
+284,334,hate speech
+285,335,hate speech
+286,336,not hate speech
+287,337,not hate speech
+288,338,not hate speech
+289,339,not hate speech
+290,340,hate speech
+291,341,not hate speech
+292,342,hate speech
+293,343,not hate speech
+294,344,not hate speech
+295,345,not hate speech
+296,346,hate speech
+297,347,not hate speech
+298,348,not hate speech
+299,349,not hate speech
+300,350,not hate speech
+301,351,hate speech
+302,352,hate speech
+303,353,not hate speech
+304,354,hate speech
+305,355,not hate speech
+306,356,not hate speech
+307,357,hate speech
+308,358,not hate speech
+309,359,not hate speech
+310,360,not hate speech
+311,361,not hate speech
+312,362,hate speech
+313,363,hate speech
+314,364,hate speech
+315,365,hate speech
+316,366,hate speech
+317,367,hate speech
+318,368,not hate speech
+319,369,not hate speech
+320,370,not hate speech
+321,371,hate speech
+322,372,not hate speech
+323,373,hate speech
+324,374,hate speech
+325,375,not hate speech
+326,376,not hate speech
+327,377,not hate speech
+328,378,hate speech
+329,379,not hate speech
+330,380,not hate speech
+331,381,not hate speech
+332,382,not hate speech
+333,383,not hate speech
+334,384,not hate speech
+335,385,not hate speech
+336,386,hate speech
+337,387,not hate speech
+338,388,not hate speech
+339,389,not hate speech
+340,390,hate speech
+341,391,hate speech
+342,392,hate speech
+343,393,not hate speech
+344,394,hate speech
+345,395,not hate speech
+346,396,not hate speech
+347,397,hate speech
+348,398,not hate speech
+349,399,not hate speech
+350,400,hate speech
+351,401,not hate speech
+352,402,not hate speech
+353,403,hate speech
+354,404,hate speech
+355,405,hate speech
+356,406,not hate speech
+357,407,hate speech
+358,408,hate speech
+359,409,not hate speech
+360,410,not hate speech
+361,411,not hate speech
+362,412,hate speech
+363,413,hate speech
+364,414,not hate speech
+365,415,hate speech
+366,416,hate speech
+367,417,not hate speech
+368,418,hate speech
+369,419,not hate speech
+370,420,not hate speech
+371,421,hate speech
+372,422,not hate speech
+373,423,hate speech
+374,424,not hate speech
+375,425,hate speech
+376,426,not hate speech
+377,427,hate speech
+378,428,not hate speech
+379,429,not hate speech
+380,430,not hate speech
+381,431,hate speech
+382,432,hate speech
+383,433,hate speech
+384,434,hate speech
+385,435,not hate speech
+386,436,hate speech
+387,437,not hate speech
+388,438,hate speech
+389,439,not hate speech
+390,440,not hate speech
+391,441,not hate speech
+392,442,hate speech
+393,443,not hate speech
+394,444,not hate speech
+395,445,not hate speech
+396,446,not hate speech
+397,447,not hate speech
+398,448,not hate speech
+399,449,not hate speech
+400,450,hate speech
+401,451,hate speech
+402,452,hate speech
+403,453,not hate speech
+404,454,not hate speech
+405,455,hate speech
+406,456,not hate speech
+407,457,not hate speech
+408,458,hate speech
+409,459,not hate speech
+410,460,not hate speech
+411,461,not hate speech
+412,462,not hate speech
+413,463,hate speech
+414,464,not hate speech
+415,465,not hate speech
+416,466,hate speech
+417,467,not hate speech
+418,468,not hate speech
+419,469,not hate speech
+420,470,hate speech
+421,471,hate speech
+422,472,hate speech
+423,473,not hate speech
+424,474,not hate speech
+425,475,hate speech
+426,476,not hate speech
+427,477,hate speech
+428,478,hate speech
+429,479,hate speech
+430,480,hate speech
+431,481,not hate speech
+432,482,not hate speech
+433,483,not hate speech
+434,484,not hate speech
+435,485,not hate speech
+436,486,not hate speech
+437,487,not hate speech
+438,488,not hate speech
+439,489,not hate speech
+440,490,not hate speech
+441,491,hate speech
+442,492,hate speech
+443,493,not hate speech
+444,494,hate speech
+445,495,not hate speech
+446,496,not hate speech
+447,497,not hate speech
+448,498,not hate speech
+449,499,not hate speech
+450,500,not hate speech
+451,501,not hate speech
+452,502,not hate speech
+453,503,not hate speech
+454,504,not hate speech
+455,505,not hate speech
+456,506,hate speech
+457,507,hate speech
+458,508,not hate speech
+459,509,not hate speech
+460,510,not hate speech
+461,511,not hate speech
+462,512,hate speech
+463,513,not hate speech
+464,514,not hate speech
+465,515,hate speech
+466,516,hate speech
+467,517,not hate speech
+468,518,hate speech
+469,519,hate speech
+470,520,hate speech
+471,521,hate speech
+472,522,not hate speech
+473,523,not hate speech
+474,524,hate speech
+475,525,not hate speech
+476,526,hate speech
+477,527,hate speech
+478,528,hate speech
+479,529,hate speech
+480,530,not hate speech
+481,531,hate speech
+482,532,hate speech
+483,533,hate speech
+484,534,not hate speech
+485,535,hate speech
+486,536,not hate speech
+487,537,not hate speech
+488,538,not hate speech
+489,539,not hate speech
+490,540,not hate speech
+491,541,not hate speech
+492,542,hate speech
+493,543,hate speech
+494,544,hate speech
+495,545,not hate speech
+496,546,not hate speech
+497,547,hate speech
+498,548,hate speech
+499,549,not hate speech
+500,550,hate speech
+501,551,not hate speech
+502,552,not hate speech
+503,553,hate speech
+504,554,not hate speech
+505,555,hate speech
+506,556,hate speech
+507,557,not hate speech
+508,558,not hate speech
+509,559,not hate speech
+510,560,not hate speech
+511,561,not hate speech
+512,562,hate speech
+513,563,hate speech
+514,564,hate speech
+515,565,hate speech
+516,566,hate speech
+517,567,hate speech
+518,568,hate speech
+519,569,hate speech
+520,570,not hate speech
+521,571,hate speech
+522,572,not hate speech
+523,573,hate speech
+524,574,not hate speech
+525,575,hate speech
+526,576,hate speech
+527,577,hate speech
+528,578,hate speech
+529,579,not hate speech
+530,580,not hate speech
+531,581,hate speech
+532,582,not hate speech
+533,583,hate speech
+534,584,not hate speech
+535,585,not hate speech
+536,586,not hate speech
+537,587,hate speech
+538,588,hate speech
+539,589,hate speech
+540,590,not hate speech
+541,591,hate speech
+542,592,hate speech
+543,593,not hate speech
+544,594,not hate speech
+545,595,not hate speech
+546,596,hate speech
+547,597,hate speech
+548,598,hate speech
+549,599,hate speech
+550,600,not hate speech
+551,601,not hate speech
+552,602,hate speech
+553,603,not hate speech
+554,604,not hate speech
+555,605,hate speech
+556,606,not hate speech
+557,607,not hate speech
+558,608,not hate speech
+559,609,not hate speech
+560,610,hate speech
+561,611,not hate speech
+562,612,not hate speech
+563,613,not hate speech
+564,614,not hate speech
+565,615,not hate speech
+566,616,hate speech
+567,617,not hate speech
+568,618,not hate speech
+569,619,not hate speech
+570,620,not hate speech
+571,621,hate speech
+572,622,hate speech
+573,623,hate speech
+574,624,hate speech
+575,625,hate speech
+576,626,not hate speech
+577,627,hate speech
+578,628,not hate speech
+579,629,not hate speech
+580,630,hate speech
+581,631,not hate speech
+582,632,not hate speech
+583,633,hate speech
+584,634,not hate speech
+585,635,hate speech
+586,636,not hate speech
+587,637,not hate speech
+588,638,not hate speech
+589,639,hate speech
+590,640,not hate speech
+591,641,hate speech
+592,642,not hate speech
+593,643,hate speech
+594,644,hate speech
+595,645,hate speech
+596,646,hate speech
+597,647,not hate speech
+598,648,not hate speech
+599,649,not hate speech
+600,650,hate speech
+601,651,not hate speech
+602,652,not hate speech
+603,653,not hate speech
+604,654,not hate speech
+605,655,hate speech
+606,656,hate speech
+607,657,not hate speech
+608,658,hate speech
+609,659,not hate speech
+610,660,not hate speech
+611,661,not hate speech
+612,662,not hate speech
+613,663,not hate speech
+614,664,not hate speech
+615,665,not hate speech
+616,666,not hate speech
+617,667,hate speech
+618,668,not hate speech
+619,669,hate speech
+620,670,not hate speech
+621,671,hate speech
+622,672,not hate speech
+623,673,not hate speech
+624,674,not hate speech
+625,675,hate speech
+626,676,not hate speech
+627,677,not hate speech
+628,678,not hate speech
+629,679,hate speech
+630,680,not hate speech
+631,681,not hate speech
+632,682,hate speech
+633,683,not hate speech
+634,684,not hate speech
+635,685,not hate speech
+636,686,not hate speech
+637,687,not hate speech
+638,688,not hate speech
+639,689,hate speech
+640,690,hate speech
+641,691,not hate speech
+642,692,not hate speech
+643,693,not hate speech
+644,694,hate speech
+645,695,hate speech
+646,696,not hate speech
+647,697,hate speech
+648,698,hate speech
+649,699,hate speech
+650,700,hate speech
+651,701,hate speech
+652,702,hate speech
+653,703,not hate speech
+654,704,hate speech
+655,705,not hate speech
+656,706,hate speech
+657,707,not hate speech
+658,708,not hate speech
+659,709,hate speech
+660,710,not hate speech
+661,711,not hate speech
+662,712,hate speech
+663,713,not hate speech
+664,714,hate speech
+665,715,not hate speech
+666,716,not hate speech
+667,717,not hate speech
+668,718,not hate speech
+669,719,not hate speech
+670,720,hate speech
+671,721,hate speech
+672,722,not hate speech
+673,723,hate speech
+674,724,hate speech
+675,725,not hate speech
+676,726,not hate speech
+677,727,not hate speech
+678,728,not hate speech
+679,729,hate speech
+680,730,not hate speech
+681,731,not hate speech
+682,732,hate speech
+683,733,not hate speech
+684,734,hate speech
+685,735,hate speech
+686,736,not hate speech
+687,737,hate speech
+688,738,not hate speech
+689,739,hate speech
+690,740,not hate speech
+691,741,not hate speech
+692,742,not hate speech
+693,743,not hate speech
+694,744,hate speech
+695,745,hate speech
+696,746,not hate speech
+697,747,not hate speech
+698,748,hate speech
+699,749,not hate speech
+700,750,not hate speech
+701,751,not hate speech
+702,752,not hate speech
+703,753,hate speech
+704,754,not hate speech
+705,755,not hate speech
+706,756,not hate speech
+707,757,hate speech
+708,758,not hate speech
+709,759,hate speech
+710,760,hate speech
+711,761,hate speech
+712,762,not hate speech
+713,763,hate speech
+714,764,hate speech
+715,765,not hate speech
+716,766,hate speech
+717,767,hate speech
+718,768,not hate speech
+719,769,hate speech
+720,770,not hate speech
+721,771,hate speech
+722,772,hate speech
+723,773,hate speech
+724,774,not hate speech
+725,775,hate speech
+726,776,not hate speech
+727,777,not hate speech
+728,778,hate speech
+729,779,hate speech
+730,780,not hate speech
+731,781,not hate speech
+732,782,not hate speech
+733,783,hate speech
+734,784,hate speech
+735,785,hate speech
+736,786,not hate speech
+737,787,hate speech
+738,788,hate speech
+739,789,not hate speech
+740,790,hate speech
+741,791,not hate speech
+742,792,hate speech
+743,793,hate speech
+744,794,hate speech
+745,795,not hate speech
+746,796,hate speech
+747,797,hate speech
+748,798,not hate speech
+749,799,hate speech
+750,800,not hate speech
+751,801,not hate speech
+752,802,not hate speech
+753,803,hate speech
+754,804,not hate speech
+755,805,hate speech
+756,806,not hate speech
+757,807,hate speech
+758,808,hate speech
+759,809,not hate speech
+760,810,not hate speech
+761,811,hate speech
+762,812,not hate speech
+763,813,not hate speech
+764,814,hate speech
+765,815,not hate speech
+766,816,hate speech
+767,817,not hate speech
+768,818,not hate speech
+769,819,not hate speech
+770,820,not hate speech
+771,821,not hate speech
+772,822,not hate speech
+773,823,hate speech
+774,824,hate speech
+775,825,not hate speech
+776,826,hate speech
+777,827,not hate speech
+778,828,not hate speech
+779,829,not hate speech
+780,830,hate speech
+781,831,not hate speech
+782,832,not hate speech
+783,833,not hate speech
+784,834,not hate speech
+785,835,hate speech
+786,836,not hate speech
+787,837,hate speech
+788,838,hate speech
+789,839,not hate speech
+790,840,not hate speech
+791,841,not hate speech
+792,842,hate speech
+793,843,not hate speech
+794,844,not hate speech
+795,845,hate speech
+796,846,not hate speech
+797,847,hate speech
+798,848,not hate speech
+799,849,not hate speech
+800,850,not hate speech
+801,851,not hate speech
+802,852,not hate speech
+803,853,not hate speech
+804,854,hate speech
+805,855,not hate speech
+806,856,hate speech
+807,857,hate speech
+808,858,not hate speech
+809,859,not hate speech
+810,860,hate speech
+811,861,not hate speech
+812,862,hate speech
+813,863,not hate speech
+814,864,not hate speech
+815,865,not hate speech
+816,866,hate speech
+817,867,not hate speech
+818,868,hate speech
+819,869,not hate speech
+820,870,hate speech
+821,871,not hate speech
+822,872,not hate speech
+823,873,hate speech
+824,874,not hate speech
+825,875,not hate speech
+826,876,not hate speech
+827,877,not hate speech
+828,878,not hate speech
+829,879,not hate speech
+830,880,hate speech
+831,881,not hate speech
+832,882,hate speech
+833,883,hate speech
+834,884,not hate speech
+835,885,hate speech
+836,886,not hate speech
+837,887,hate speech
+838,888,not hate speech
+839,889,hate speech
+840,890,hate speech
+841,891,hate speech
+842,892,not hate speech
+843,893,hate speech
+844,894,not hate speech
+845,895,hate speech
+846,896,not hate speech
+847,897,not hate speech
+848,898,hate speech
+849,899,hate speech
+850,900,hate speech
+851,901,not hate speech
+852,902,hate speech
+853,903,not hate speech
+854,904,hate speech
+855,905,not hate speech
+856,906,not hate speech
+857,907,not hate speech
+858,908,hate speech
+859,909,not hate speech
+860,910,hate speech
+861,911,not hate speech
+862,912,not hate speech
+863,913,not hate speech
+864,914,not hate speech
+865,915,hate speech
+866,916,hate speech
+867,917,not hate speech
+868,918,not hate speech
+869,919,hate speech
+870,920,hate speech
+871,921,not hate speech
+872,922,not hate speech
+873,923,hate speech
+874,924,not hate speech
+875,925,hate speech
+876,926,not hate speech
+877,927,not hate speech
+878,928,not hate speech
+879,929,hate speech
+880,930,hate speech
+881,931,not hate speech
+882,932,hate speech
+883,933,not hate speech
+884,934,not hate speech
+885,935,not hate speech
+886,936,not hate speech
+887,937,not hate speech
+888,938,not hate speech
+889,939,hate speech
+890,940,not hate speech
+891,941,not hate speech
+892,942,not hate speech
+893,943,not hate speech
+894,944,not hate speech
+895,945,not hate speech
+896,946,not hate speech
+897,947,hate speech
+898,948,hate speech
+899,949,not hate speech
+900,950,not hate speech
+901,951,not hate speech
+902,952,not hate speech
+903,953,not hate speech
+904,954,not hate speech
+905,955,not hate speech
+906,956,not hate speech
+907,957,hate speech
+908,958,not hate speech
+909,959,hate speech
+910,960,not hate speech
+911,961,not hate speech
+912,962,not hate speech
+913,963,hate speech
+914,964,not hate speech
+915,965,not hate speech
+916,966,hate speech
+917,967,hate speech
+918,968,not hate speech
+919,969,not hate speech
+920,970,hate speech
+921,971,not hate speech
+922,972,hate speech
+923,973,not hate speech
+924,974,hate speech
+925,975,not hate speech
+926,976,hate speech
+927,977,not hate speech
+928,978,not hate speech
+929,979,not hate speech
+930,980,not hate speech
+931,981,not hate speech
+932,982,hate speech
+933,983,not hate speech
+934,984,not hate speech
+935,985,not hate speech
+936,986,hate speech
+937,987,not hate speech
+938,988,not hate speech
+939,989,not hate speech
+940,990,hate speech
+941,991,not hate speech
+942,992,not hate speech
+943,993,not hate speech
+944,994,hate speech
+945,995,not hate speech
+946,996,not hate speech
+947,997,not hate speech
+948,998,hate speech
+949,999,hate speech
+950,1000,not hate speech
+951,1001,not hate speech
+952,1002,hate speech
+953,1003,not hate speech
+954,1004,not hate speech
+955,1005,hate speech
+956,1006,hate speech
+957,1007,hate speech
+958,1008,hate speech
+959,1009,hate speech
+960,1010,hate speech
+961,1011,not hate speech
+962,1012,not hate speech
+963,1013,hate speech
+964,1014,not hate speech
+965,1015,not hate speech
+966,1016,hate speech
+967,1017,not hate speech
+968,1018,hate speech
+969,1019,hate speech
+970,1020,not hate speech
+971,1021,not hate speech
+972,1022,not hate speech
+973,1023,not hate speech
+974,1024,not hate speech
+975,1025,hate speech
+976,1026,hate speech
+977,1027,not hate speech
+978,1028,not hate speech
+979,1029,not hate speech
+980,1030,not hate speech
+981,1031,not hate speech
+982,1032,hate speech
+983,1033,not hate speech
+984,1034,hate speech
+985,1035,hate speech
+986,1036,not hate speech
+987,1037,not hate speech
+988,1038,not hate speech
+989,1039,hate speech
+990,1040,hate speech
+991,1041,not hate speech
+992,1042,not hate speech
+993,1043,not hate speech
+994,1044,not hate speech
+995,1045,hate speech
+996,1046,hate speech
+997,1047,not hate speech
+998,1048,hate speech
+999,1049,hate speech
+1000,1050,hate speech
+1001,1051,not hate speech
+1002,1052,hate speech
+1003,1053,hate speech
+1004,1054,not hate speech
+1005,1055,hate speech
+1006,1056,not hate speech
+1007,1057,hate speech
+1008,1058,not hate speech
+1009,1059,not hate speech
+1010,1060,not hate speech
+1011,1061,not hate speech
+1012,1062,hate speech
+1013,1063,hate speech
+1014,1064,not hate speech
+1015,1065,not hate speech
+1016,1066,hate speech
+1017,1067,hate speech
+1018,1068,not hate speech
+1019,1069,not hate speech
+1020,1070,not hate speech
+1021,1071,not hate speech
+1022,1072,hate speech
+1023,1073,not hate speech
+1024,1074,not hate speech
+1025,1075,hate speech
+1026,1076,not hate speech
+1027,1077,hate speech
+1028,1078,not hate speech
+1029,1079,hate speech
+1030,1080,hate speech
+1031,1081,hate speech
+1032,1082,hate speech
+1033,1083,not hate speech
+1034,1084,hate speech
+1035,1085,hate speech
+1036,1086,hate speech
+1037,1087,not hate speech
+1038,1088,not hate speech
+1039,1089,hate speech
+1040,1090,hate speech
+1041,1091,not hate speech
+1042,1092,hate speech
+1043,1093,not hate speech
+1044,1094,not hate speech
+1045,1095,not hate speech
+1046,1096,hate speech
+1047,1097,not hate speech
+1048,1098,not hate speech
+1049,1099,hate speech
+1050,1100,not hate speech
+1051,1101,not hate speech
+1052,1102,hate speech
+1053,1103,not hate speech
+1054,1104,hate speech
+1055,1105,not hate speech
+1056,1106,hate speech
+1057,1107,not hate speech
+1058,1108,hate speech
+1059,1109,not hate speech
+1060,1110,not hate speech
+1061,1111,not hate speech
+1062,1112,hate speech
+1063,1113,hate speech
+1064,1114,not hate speech
+1065,1115,hate speech
+1066,1116,not hate speech
+1067,1117,hate speech
+1068,1118,hate speech
+1069,1119,hate speech
+1070,1120,not hate speech
+1071,1121,not hate speech
+1072,1122,not hate speech
+1073,1123,not hate speech
+1074,1124,hate speech
+1075,1125,not hate speech
+1076,1126,not hate speech
+1077,1127,hate speech
+1078,1128,not hate speech
+1079,1129,hate speech
+1080,1130,not hate speech
+1081,1131,hate speech
+1082,1132,hate speech
+1083,1133,not hate speech
+1084,1134,hate speech
+1085,1135,not hate speech
+1086,1136,not hate speech
+1087,1137,not hate speech
+1088,1138,hate speech
+1089,1139,not hate speech
+1090,1140,hate speech
+1091,1141,hate speech
+1092,1142,hate speech
+1093,1143,hate speech
+1094,1144,hate speech
+1095,1145,not hate speech
+1096,1146,not hate speech
+1097,1147,not hate speech
+1098,1148,not hate speech
+1099,1149,not hate speech
+1100,1150,hate speech
+1101,1151,not hate speech
+1102,1152,hate speech
+1103,1153,not hate speech
+1104,1154,not hate speech
+1105,1155,not hate speech
+1106,1156,not hate speech
+1107,1157,not hate speech
+1108,1158,not hate speech
+1109,1159,not hate speech
+1110,1160,not hate speech
+1111,1161,hate speech
+1112,1162,not hate speech
+1113,1163,hate speech
+1114,1164,not hate speech
+1115,1165,not hate speech
+1116,1166,hate speech
+1117,1167,not hate speech
+1118,1168,hate speech
+1119,1169,not hate speech
+1120,1170,not hate speech
+1121,1171,not hate speech
+1122,1172,hate speech
+1123,1173,not hate speech
+1124,1174,not hate speech
+1125,1175,not hate speech
+1126,1176,hate speech
+1127,1177,not hate speech
+1128,1178,not hate speech
+1129,1179,not hate speech
+1130,1180,not hate speech
+1131,1181,not hate speech
+1132,1182,not hate speech
+1133,1183,not hate speech
+1134,1184,not hate speech
+1135,1185,hate speech
+1136,1186,not hate speech
+1137,1187,not hate speech
+1138,1188,hate speech
+1139,1189,not hate speech
+1140,1190,not hate speech
+1141,1191,not hate speech
+1142,1192,hate speech
+1143,1193,hate speech
+1144,1194,not hate speech
+1145,1195,not hate speech
+1146,1196,not hate speech
+1147,1197,hate speech
+1148,1198,not hate speech
+1149,1199,not hate speech
+1150,1200,not hate speech
+1151,1201,not hate speech
+1152,1202,hate speech
+1153,1203,not hate speech
+1154,1204,not hate speech
+1155,1205,hate speech
+1156,1206,hate speech
+1157,1207,hate speech
+1158,1208,hate speech
+1159,1209,not hate speech
+1160,1210,hate speech
+1161,1211,hate speech
+1162,1212,not hate speech
+1163,1213,not hate speech
+1164,1214,hate speech
+1165,1215,hate speech
+1166,1216,hate speech
+1167,1217,not hate speech
+1168,1218,not hate speech
+1169,1219,not hate speech
+1170,1220,not hate speech
+1171,1221,hate speech
+1172,1222,not hate speech
+1173,1223,not hate speech
+1174,1224,not hate speech
+1175,1225,not hate speech
+1176,1226,hate speech
+1177,1227,not hate speech
+1178,1228,not hate speech
+1179,1229,hate speech
+1180,1230,hate speech
+1181,1231,hate speech
+1182,1232,not hate speech
+1183,1233,hate speech
+1184,1234,not hate speech
+1185,1235,not hate speech
+1186,1236,not hate speech
+1187,1237,not hate speech
+1188,1238,hate speech
+1189,1239,not hate speech
+1190,1240,not hate speech
+1191,1241,not hate speech
+1192,1242,hate speech
+1193,1243,not hate speech
+1194,1244,hate speech
+1195,1245,not hate speech
+1196,1246,not hate speech
+1197,1247,not hate speech
+1198,1248,not hate speech
+1199,1249,not hate speech
+1200,1250,not hate speech
+1201,1251,not hate speech
+1202,1252,hate speech
+1203,1253,not hate speech
+1204,1254,not hate speech
+1205,1255,hate speech
+1206,1256,not hate speech
+1207,1257,hate speech
+1208,1258,not hate speech
+1209,1259,not hate speech
+1210,1260,not hate speech
+1211,1261,not hate speech
+1212,1262,not hate speech
+1213,1263,hate speech
+1214,1264,hate speech
+1215,1265,not hate speech
+1216,1266,not hate speech
+1217,1267,not hate speech
+1218,1268,hate speech
+1219,1269,hate speech
+1220,1270,hate speech
+1221,1271,hate speech
+1222,1272,hate speech
+1223,1273,not hate speech
+1224,1274,hate speech
+1225,1275,hate speech
+1226,1276,not hate speech
+1227,1277,hate speech
+1228,1278,hate speech
+1229,1279,hate speech
+1230,1280,not hate speech
+1231,1281,not hate speech
+1232,1282,not hate speech
+1233,1283,hate speech
+1234,1284,not hate speech
+1235,1285,hate speech
+1236,1286,hate speech
+1237,1287,not hate speech
+1238,1288,hate speech
+1239,1289,hate speech
+1240,1290,hate speech
+1241,1291,not hate speech
+1242,1292,not hate speech
+1243,1293,hate speech
+1244,1294,not hate speech
+1245,1295,not hate speech
+1246,1296,hate speech
+1247,1297,hate speech
+1248,1298,not hate speech
+1249,1299,not hate speech
+1250,1300,not hate speech
+1251,1301,not hate speech
+1252,1302,not hate speech
+1253,1303,not hate speech
+1254,1304,not hate speech
+1255,1305,hate speech
+1256,1306,not hate speech
+1257,1307,hate speech
+1258,1308,hate speech
+1259,1309,not hate speech
+1260,1310,not hate speech
+1261,1311,hate speech
+1262,1312,hate speech
+1263,1313,hate speech
+1264,1314,not hate speech
+1265,1315,not hate speech
+1266,1316,not hate speech
+1267,1317,not hate speech
+1268,1318,not hate speech
+1269,1319,hate speech
+1270,1320,not hate speech
+1271,1321,not hate speech
+1272,1322,hate speech
+1273,1323,not hate speech
+1274,1324,hate speech
+1275,1325,not hate speech
+1276,1326,not hate speech
+1277,1327,not hate speech
+1278,1328,hate speech
+1279,1329,not hate speech
+1280,1330,hate speech
+1281,1331,not hate speech
+1282,1332,hate speech
+1283,1333,not hate speech
+1284,1334,hate speech
+1285,1335,not hate speech
+1286,1336,not hate speech
+1287,1337,hate speech
+1288,1338,not hate speech
+1289,1339,not hate speech
+1290,1340,not hate speech
+1291,1341,hate speech
+1292,1342,hate speech
+1293,1343,not hate speech
+1294,1344,hate speech
+1295,1345,not hate speech
+1296,1346,hate speech
+1297,1347,not hate speech
+1298,1348,hate speech
+1299,1349,not hate speech
+1300,1350,not hate speech
+1301,1351,not hate speech
+1302,1352,hate speech
+1303,1353,hate speech
+1304,1354,hate speech
+1305,1355,not hate speech
+1306,1356,not hate speech
+1307,1357,hate speech
+1308,1358,not hate speech
+1309,1359,not hate speech
+1310,1360,not hate speech
+1311,1361,not hate speech
+1312,1362,hate speech
+1313,1363,hate speech
+1314,1364,not hate speech
+1315,1365,not hate speech
+1316,1366,not hate speech
+1317,1367,not hate speech
+1318,1368,not hate speech
+1319,1369,not hate speech
+1320,1370,not hate speech
+1321,1371,not hate speech
+1322,1372,hate speech
+1323,1373,not hate speech
+1324,1374,not hate speech
+1325,1375,hate speech
+1326,1376,hate speech
+1327,1377,not hate speech
+1328,1378,not hate speech
+1329,1379,not hate speech
+1330,1380,hate speech
+1331,1381,hate speech
+1332,1382,not hate speech
+1333,1383,hate speech
+1334,1384,not hate speech
+1335,1385,hate speech
+1336,1386,not hate speech
+1337,1387,not hate speech
+1338,1388,hate speech
+1339,1389,hate speech
+1340,1390,hate speech
+1341,1391,not hate speech
+1342,1392,hate speech
+1343,1393,not hate speech
+1344,1394,not hate speech
+1345,1395,not hate speech
+1346,1396,not hate speech
+1347,1397,not hate speech
+1348,1398,not hate speech
+1349,1399,hate speech
+1350,1400,not hate speech
+1351,1401,hate speech
+1352,1402,not hate speech
+1353,1403,not hate speech
+1354,1404,not hate speech
+1355,1405,not hate speech
+1356,1406,not hate speech
+1357,1407,hate speech
+1358,1408,not hate speech
+1359,1409,hate speech
+1360,1410,hate speech
+1361,1411,not hate speech
+1362,1412,not hate speech
+1363,1413,not hate speech
+1364,1414,hate speech
+1365,1415,not hate speech
+1366,1416,not hate speech
+1367,1417,not hate speech
+1368,1418,hate speech
+1369,1419,not hate speech
+1370,1420,hate speech
+1371,1421,hate speech
+1372,1422,hate speech
+1373,1423,hate speech
+1374,1424,not hate speech
+1375,1425,not hate speech
+1376,1426,not hate speech
+1377,1427,hate speech
+1378,1428,hate speech
+1379,1429,hate speech
+1380,1430,hate speech
+1381,1431,hate speech
+1382,1432,hate speech
+1383,1433,hate speech
+1384,1434,not hate speech
+1385,1435,not hate speech
+1386,1436,not hate speech
+1387,1437,not hate speech
+1388,1438,not hate speech
+1389,1439,hate speech
+1390,1440,not hate speech
+1391,1441,not hate speech
+1392,1442,hate speech
+1393,1443,hate speech
+1394,1444,not hate speech
+1395,1445,not hate speech
+1396,1446,hate speech
+1397,1447,not hate speech
+1398,1448,not hate speech
+1399,1449,not hate speech
+1400,1450,hate speech
+1401,1451,not hate speech
+1402,1452,hate speech
+1403,1453,hate speech
+1404,1454,not hate speech
+1405,1455,hate speech
+1406,1456,not hate speech
+1407,1457,hate speech
+1408,1458,not hate speech
+1409,1459,hate speech
+1410,1460,hate speech
+1411,1461,not hate speech
+1412,1462,hate speech
+1413,1463,not hate speech
+1414,1464,not hate speech
+1415,1465,not hate speech
+1416,1466,not hate speech
+1417,1467,not hate speech
+1418,1468,not hate speech
+1419,1469,not hate speech
+1420,1470,hate speech
+1421,1471,hate speech
+1422,1472,not hate speech
+1423,1473,not hate speech
+1424,1474,not hate speech
+1425,1475,hate speech
+1426,1476,not hate speech
+1427,1477,hate speech
+1428,1478,hate speech
+1429,1479,not hate speech
+1430,1480,hate speech
+1431,1481,not hate speech
+1432,1482,hate speech
+1433,1483,not hate speech
+1434,1484,hate speech
+1435,1485,not hate speech
+1436,1486,not hate speech
+1437,1487,hate speech
+1438,1488,not hate speech
+1439,1489,not hate speech
+1440,1490,hate speech
+1441,1491,hate speech
+1442,1492,not hate speech
+1443,1493,not hate speech
+1444,1494,not hate speech
+1445,1495,not hate speech
+1446,1496,hate speech
+1447,1497,not hate speech
+1448,1498,not hate speech
+1449,1499,not hate speech
+1450,1500,hate speech
+1451,1501,hate speech
+1452,1502,not hate speech
+1453,1503,not hate speech
+1454,1504,hate speech
+1455,1505,not hate speech
+1456,1506,hate speech
+1457,1507,not hate speech
+1458,1508,hate speech
+1459,1509,hate speech
+1460,1510,hate speech
+1461,1511,not hate speech
+1462,1512,hate speech
+1463,1513,hate speech
+1464,1514,not hate speech
+1465,1515,not hate speech
+1466,1516,not hate speech
+1467,1517,not hate speech
+1468,1518,hate speech
+1469,1519,not hate speech
+1470,1520,not hate speech
+1471,1521,not hate speech
+1472,1522,not hate speech
+1473,1523,hate speech
+1474,1524,not hate speech
+1475,1525,not hate speech
+1476,1526,hate speech
+1477,1527,hate speech
+1478,1528,not hate speech
+1479,1529,hate speech
+1480,1530,not hate speech
+1481,1531,not hate speech
+1482,1532,hate speech
+1483,1533,hate speech
+1484,1534,hate speech
+1485,1535,not hate speech
+1486,1536,not hate speech
+1487,1537,not hate speech
+1488,1538,hate speech
+1489,1539,not hate speech
+1490,1540,hate speech
+1491,1541,hate speech
+1492,1542,hate speech
+1493,1543,not hate speech
+1494,1544,not hate speech
+1495,1545,not hate speech
+1496,1546,not hate speech
+1497,1547,not hate speech
+1498,1548,hate speech
+1499,1549,not hate speech
+1500,1550,hate speech
+1501,1551,hate speech
+1502,1552,not hate speech
+1503,1553,not hate speech
+1504,1554,not hate speech
+1505,1555,hate speech
+1506,1556,not hate speech
+1507,1557,hate speech
+1508,1558,not hate speech
+1509,1559,not hate speech
+1510,1560,hate speech
+1511,1561,not hate speech
+1512,1562,not hate speech
+1513,1563,hate speech
+1514,1564,not hate speech
+1515,1565,not hate speech
+1516,1566,hate speech
+1517,1567,hate speech
+1518,1568,not hate speech
+1519,1569,not hate speech
+1520,1570,not hate speech
+1521,1571,hate speech
+1522,1572,not hate speech
+1523,1573,hate speech
+1524,1574,not hate speech
+1525,1575,not hate speech
+1526,1576,hate speech
+1527,1577,not hate speech
+1528,1578,hate speech
+1529,1579,not hate speech
+1530,1580,not hate speech
+1531,1581,hate speech
+1532,1582,not hate speech
+1533,1583,hate speech
+1534,1584,not hate speech
+1535,1585,not hate speech
+1536,1586,not hate speech
+1537,1587,not hate speech
+1538,1588,hate speech
+1539,1589,not hate speech
+1540,1590,hate speech
+1541,1591,hate speech
+1542,1592,not hate speech
+1543,1593,not hate speech
+1544,1594,hate speech
+1545,1595,hate speech
+1546,1596,hate speech
+1547,1597,hate speech
+1548,1598,hate speech
+1549,1599,not hate speech
+1550,1600,not hate speech
+1551,1601,hate speech
+1552,1602,not hate speech
+1553,1603,not hate speech
+1554,1604,not hate speech
+1555,1605,not hate speech
+1556,1606,not hate speech
+1557,1607,not hate speech
+1558,1608,not hate speech
+1559,1609,hate speech
+1560,1610,hate speech
+1561,1611,hate speech
+1562,1612,hate speech
+1563,1613,hate speech
+1564,1614,not hate speech
+1565,1615,not hate speech
+1566,1616,hate speech
+1567,1617,hate speech
+1568,1618,hate speech
+1569,1619,not hate speech
+1570,1620,hate speech
+1571,1621,not hate speech
+1572,1622,hate speech
+1573,1623,not hate speech
+1574,1624,not hate speech
+1575,1625,not hate speech
+1576,1626,not hate speech
+1577,1627,hate speech
+1578,1628,hate speech
+1579,1629,hate speech
+1580,1630,not hate speech
+1581,1631,not hate speech
+1582,1632,hate speech
+1583,1633,not hate speech
+1584,1634,not hate speech
+1585,1635,not hate speech
+1586,1636,not hate speech
+1587,1637,not hate speech
+1588,1638,hate speech
+1589,1639,hate speech
+1590,1640,not hate speech
+1591,1641,not hate speech
+1592,1642,not hate speech
+1593,1643,not hate speech
+1594,1644,hate speech
+1595,1645,hate speech
+1596,1646,hate speech
+1597,1647,not hate speech
+1598,1648,not hate speech
+1599,1649,hate speech
+1600,1650,not hate speech
+1601,1651,not hate speech
+1602,1652,hate speech
+1603,1653,hate speech
+1604,1654,hate speech
+1605,1655,not hate speech
+1606,1656,hate speech
+1607,1657,not hate speech
+1608,1658,hate speech
+1609,1659,not hate speech
+1610,1660,hate speech
+1611,1661,not hate speech
+1612,1662,hate speech
+1613,1663,not hate speech
+1614,1664,not hate speech
+1615,1665,hate speech
+1616,1666,not hate speech
+1617,1667,not hate speech
+1618,1668,not hate speech
+1619,1669,hate speech
+1620,1670,hate speech
+1621,1671,not hate speech
+1622,1672,not hate speech
+1623,1673,hate speech
+1624,1674,not hate speech
+1625,1675,hate speech
+1626,1676,not hate speech
+1627,1677,not hate speech
+1628,1678,hate speech
+1629,1679,hate speech
+1630,1680,hate speech
+1631,1681,not hate speech
+1632,1682,not hate speech
+1633,1683,not hate speech
+1634,1684,not hate speech
+1635,1685,hate speech
+1636,1686,not hate speech
+1637,1687,hate speech
+1638,1688,not hate speech
+1639,1689,not hate speech
+1640,1690,hate speech
+1641,1691,not hate speech
+1642,1692,not hate speech
+1643,1693,not hate speech
+1644,1694,not hate speech
+1645,1695,hate speech
+1646,1696,not hate speech
+1647,1697,not hate speech
+1648,1698,not hate speech
+1649,1699,hate speech
+1650,1700,hate speech
+1651,1701,not hate speech
+1652,1702,hate speech
+1653,1703,hate speech
+1654,1704,not hate speech
+1655,1705,hate speech
+1656,1706,not hate speech
+1657,1707,not hate speech
+1658,1708,not hate speech
+1659,1709,hate speech
+1660,1710,not hate speech
+1661,1711,not hate speech
+1662,1712,not hate speech
+1663,1713,not hate speech
+1664,1714,not hate speech
+1665,1715,not hate speech
+1666,1716,not hate speech
+1667,1717,hate speech
+1668,1718,not hate speech
+1669,1719,hate speech
+1670,1720,hate speech
+1671,1721,not hate speech
+1672,1722,hate speech
+1673,1723,hate speech
+1674,1724,not hate speech
+1675,1725,hate speech
+1676,1726,not hate speech
+1677,1727,not hate speech
+1678,1728,hate speech
+1679,1729,hate speech
+1680,1730,not hate speech
+1681,1731,hate speech
+1682,1732,not hate speech
+1683,1733,hate speech
+1684,1734,hate speech
+1685,1735,not hate speech
+1686,1736,hate speech
+1687,1737,not hate speech
+1688,1738,not hate speech
+1689,1739,not hate speech
+1690,1740,not hate speech
+1691,1741,not hate speech
+1692,1742,not hate speech
+1693,1743,hate speech
+1694,1744,not hate speech
+1695,1745,not hate speech
+1696,1746,not hate speech
+1697,1747,not hate speech
+1698,1748,not hate speech
+1699,1749,not hate speech
+1700,1750,hate speech
+1701,1751,hate speech
+1702,1752,not hate speech
+1703,1753,not hate speech
+1704,1754,hate speech
+1705,1755,not hate speech
+1706,1756,not hate speech
+1707,1757,hate speech
+1708,1758,not hate speech
+1709,1759,not hate speech
+1710,1760,hate speech
+1711,1761,hate speech
+1712,1762,hate speech
+1713,1763,not hate speech
+1714,1764,not hate speech
+1715,1765,not hate speech
+1716,1766,hate speech
+1717,1767,not hate speech
+1718,1768,not hate speech
+1719,1769,not hate speech
+1720,1770,hate speech
+1721,1771,not hate speech
+1722,1772,hate speech
+1723,1773,hate speech
+1724,1774,hate speech
+1725,1775,not hate speech
+1726,1776,hate speech
+1727,1777,not hate speech
+1728,1778,hate speech
+1729,1779,hate speech
+1730,1780,hate speech
+1731,1781,hate speech
+1732,1782,hate speech
+1733,1783,not hate speech
+1734,1784,not hate speech
+1735,1785,hate speech
+1736,1786,not hate speech
+1737,1787,not hate speech
+1738,1788,not hate speech
+1739,1789,hate speech
+1740,1790,not hate speech
+1741,1791,hate speech
+1742,1792,not hate speech
+1743,1793,not hate speech
+1744,1794,hate speech
+1745,1795,not hate speech
+1746,1796,not hate speech
+1747,1797,not hate speech
+1748,1798,hate speech
+1749,1799,not hate speech
+1750,1800,hate speech
+1751,1801,hate speech
+1752,1802,hate speech
+1753,1803,not hate speech
+1754,1804,not hate speech
+1755,1805,hate speech
+1756,1806,not hate speech
+1757,1807,hate speech
+1758,1808,hate speech
+1759,1809,not hate speech
+1760,1810,hate speech
+1761,1811,not hate speech
+1762,1812,hate speech
+1763,1813,hate speech
+1764,1814,hate speech
+1765,1815,hate speech
+1766,1816,not hate speech
+1767,1817,hate speech
+1768,1818,hate speech
+1769,1819,hate speech
+1770,1820,hate speech
+1771,1821,not hate speech
+1772,1822,hate speech
+1773,1823,not hate speech
+1774,1824,hate speech
+1775,1825,hate speech
+1776,1826,not hate speech
+1777,1827,not hate speech
+1778,1828,not hate speech
+1779,1829,hate speech
+1780,1830,not hate speech
+1781,1831,not hate speech
+1782,1832,hate speech
+1783,1833,hate speech
+1784,1834,hate speech
+1785,1835,hate speech
+1786,1836,hate speech
+1787,1837,hate speech
+1788,1838,not hate speech
+1789,1839,not hate speech
+1790,1840,not hate speech
+1791,1841,not hate speech
+1792,1842,not hate speech
+1793,1843,hate speech
+1794,1844,hate speech
+1795,1845,not hate speech
+1796,1846,hate speech
+1797,1847,hate speech
+1798,1848,not hate speech
+1799,1849,not hate speech
+1800,1850,not hate speech
+1801,1851,not hate speech
+1802,1852,not hate speech
+1803,1853,not hate speech
+1804,1854,hate speech
+1805,1855,hate speech
+1806,1856,hate speech
+1807,1857,not hate speech
+1808,1858,not hate speech
+1809,1859,not hate speech
+1810,1860,not hate speech
+1811,1861,hate speech
+1812,1862,not hate speech
+1813,1863,not hate speech
+1814,1864,hate speech
+1815,1865,hate speech
+1816,1866,hate speech
+1817,1867,not hate speech
+1818,1868,hate speech
+1819,1869,not hate speech
+1820,1870,hate speech
+1821,1871,not hate speech
+1822,1872,not hate speech
+1823,1873,hate speech
+1824,1874,not hate speech
+1825,1875,not hate speech
+1826,1876,not hate speech
+1827,1877,hate speech
+1828,1878,not hate speech
+1829,1879,hate speech
+1830,1880,not hate speech
+1831,1881,not hate speech
+1832,1882,hate speech
+1833,1883,not hate speech
+1834,1884,not hate speech
+1835,1885,not hate speech
+1836,1886,not hate speech
+1837,1887,not hate speech
+1838,1888,not hate speech
+1839,1889,not hate speech
+1840,1890,not hate speech
+1841,1891,not hate speech
+1842,1892,not hate speech
+1843,1893,not hate speech
+1844,1894,not hate speech
+1845,1895,hate speech
+1846,1896,hate speech
+1847,1897,not hate speech
+1848,1898,not hate speech
+1849,1899,hate speech
+1850,1900,hate speech
+1851,1901,not hate speech
+1852,1902,hate speech
+1853,1903,hate speech
+1854,1904,hate speech
+1855,1905,hate speech
+1856,1906,not hate speech
+1857,1907,hate speech
+1858,1908,hate speech
+1859,1909,not hate speech
+1860,1910,hate speech
+1861,1911,not hate speech
+1862,1912,not hate speech
+1863,1913,hate speech
+1864,1914,hate speech
+1865,1915,hate speech
+1866,1916,hate speech
+1867,1917,hate speech
+1868,1918,hate speech
+1869,1919,not hate speech
+1870,1920,not hate speech
+1871,1921,not hate speech
+1872,1922,not hate speech
+1873,1923,hate speech
+1874,1924,not hate speech
+1875,1925,not hate speech
+1876,1926,hate speech
+1877,1927,not hate speech
+1878,1928,not hate speech
+1879,1929,not hate speech
+1880,1930,not hate speech
+1881,1931,hate speech
+1882,1932,hate speech
+1883,1933,not hate speech
+1884,1934,hate speech
+1885,1935,not hate speech
+1886,1936,hate speech
+1887,1937,not hate speech
+1888,1938,hate speech
+1889,1939,not hate speech
+1890,1940,not hate speech
+1891,1941,not hate speech
+1892,1942,not hate speech
+1893,1943,hate speech
+1894,1944,hate speech
+1895,1945,not hate speech
+1896,1946,not hate speech
+1897,1947,not hate speech
+1898,1948,not hate speech
+1899,1949,not hate speech
+1900,1950,hate speech
+1901,1951,hate speech
+1902,1952,hate speech
+1903,1953,not hate speech
+1904,1954,hate speech
+1905,1955,not hate speech
+1906,1956,hate speech
+1907,1957,not hate speech
+1908,1958,hate speech
+1909,1959,not hate speech
+1910,1960,hate speech
+1911,1961,hate speech
+1912,1962,not hate speech
+1913,1963,not hate speech
+1914,1964,not hate speech
+1915,1965,not hate speech
+1916,1966,hate speech
+1917,1967,not hate speech
+1918,1968,not hate speech
+1919,1969,not hate speech
+1920,1970,not hate speech
+1921,1971,hate speech
+1922,1972,not hate speech
+1923,1973,hate speech
+1924,1974,hate speech
+1925,1975,not hate speech
+1926,1976,not hate speech
+1927,1977,not hate speech
+1928,1978,not hate speech
+1929,1979,hate speech
+1930,1980,not hate speech
+1931,1981,not hate speech
+1932,1982,hate speech
+1933,1983,hate speech
+1934,1984,not hate speech
+1935,1985,hate speech
+1936,1986,not hate speech
+1937,1987,hate speech
+1938,1988,hate speech
+1939,1989,hate speech
+1940,1990,hate speech
+1941,1991,not hate speech
+1942,1992,not hate speech
+1943,1993,hate speech
+1944,1994,hate speech
+1945,1995,not hate speech
+1946,1996,not hate speech
+1947,1997,not hate speech
+1948,1998,not hate speech
+1949,1999,not hate speech
+1950,2000,hate speech
+1951,2001,not hate speech
+1952,2002,hate speech
+1953,2003,not hate speech
+1954,2004,not hate speech
+1955,2005,hate speech
+1956,2006,hate speech
+1957,2007,not hate speech
+1958,2008,not hate speech
+1959,2009,hate speech
+1960,2010,not hate speech
+1961,2011,hate speech
+1962,2012,hate speech
+1963,2013,not hate speech
+1964,2014,not hate speech
+1965,2015,not hate speech
+1966,2016,not hate speech
+1967,2017,not hate speech
+1968,2018,not hate speech
+1969,2019,not hate speech
+1970,2020,not hate speech
+1971,2021,hate speech
+1972,2022,not hate speech
+1973,2023,hate speech
+1974,2024,not hate speech
+1975,2025,not hate speech
+1976,2026,not hate speech
+1977,2027,not hate speech
+1978,2028,not hate speech
+1979,2029,not hate speech
+1980,2030,not hate speech
+1981,2031,hate speech
+1982,2032,hate speech
+1983,2033,not hate speech
+1984,2034,not hate speech
+1985,2035,not hate speech
+1986,2036,not hate speech
+1987,2037,not hate speech
+1988,2038,not hate speech
+1989,2039,not hate speech
+1990,2040,hate speech
+1991,2041,hate speech
+1992,2042,not hate speech
+1993,2043,hate speech
+1994,2044,not hate speech
+1995,2045,hate speech
+1996,2046,not hate speech
+1997,2047,hate speech
+1998,2048,not hate speech
+1999,2049,hate speech
+2000,2050,hate speech
+2001,2051,not hate speech
+2002,2052,hate speech
+2003,2053,not hate speech
+2004,2054,not hate speech
+2005,2055,not hate speech
+2006,2056,not hate speech
+2007,2057,not hate speech
+2008,2058,hate speech
+2009,2059,hate speech
+2010,2060,hate speech
+2011,2061,hate speech
+2012,2062,not hate speech
+2013,2063,not hate speech
+2014,2064,not hate speech
+2015,2065,not hate speech
+2016,2066,not hate speech
+2017,2067,hate speech
+2018,2068,not hate speech
+2019,2069,hate speech
+2020,2070,hate speech
+2021,2071,not hate speech
+2022,2072,hate speech
+2023,2073,not hate speech
+2024,2074,not hate speech
+2025,2075,not hate speech
+2026,2076,not hate speech
+2027,2077,not hate speech
+2028,2078,not hate speech
+2029,2079,hate speech
+2030,2080,hate speech
+2031,2081,not hate speech
+2032,2082,hate speech
+2033,2083,not hate speech
+2034,2084,hate speech
+2035,2085,hate speech
+2036,2086,not hate speech
+2037,2087,not hate speech
+2038,2088,hate speech
+2039,2089,hate speech
+2040,2090,hate speech
+2041,2091,not hate speech
+2042,2092,not hate speech
+2043,2093,hate speech
+2044,2094,not hate speech
+2045,2095,hate speech
+2046,2096,hate speech
+2047,2097,not hate speech
+2048,2098,hate speech
+2049,2099,hate speech
+2050,2100,not hate speech
+2051,2101,hate speech
+2052,2102,hate speech
+2053,2103,not hate speech
+2054,2104,not hate speech
+2055,2105,not hate speech
+2056,2106,hate speech
+2057,2107,hate speech
+2058,2108,not hate speech
+2059,2109,not hate speech
+2060,2110,not hate speech
+2061,2111,not hate speech
+2062,2112,not hate speech
+2063,2113,hate speech
+2064,2114,hate speech
+2065,2115,not hate speech
+2066,2116,not hate speech
+2067,2117,not hate speech
+2068,2118,hate speech
+2069,2119,hate speech
+2070,2120,not hate speech
+2071,2121,not hate speech
+2072,2122,not hate speech
+2073,2123,not hate speech
+2074,2124,not hate speech
+2075,2125,hate speech
+2076,2126,hate speech
+2077,2127,hate speech
+2078,2128,hate speech
+2079,2129,hate speech
+2080,2130,hate speech
+2081,2131,hate speech
+2082,2132,hate speech
+2083,2133,not hate speech
+2084,2134,not hate speech
+2085,2135,hate speech
+2086,2136,not hate speech
+2087,2137,not hate speech
+2088,2138,not hate speech
+2089,2139,not hate speech
+2090,2140,hate speech
+2091,2141,hate speech
+2092,2142,not hate speech
+2093,2143,hate speech
+2094,2144,not hate speech
+2095,2145,not hate speech
+2096,2146,not hate speech
+2097,2147,not hate speech
+2098,2148,not hate speech
+2099,2149,not hate speech
+2100,2150,hate speech
+2101,2151,not hate speech
+2102,2152,not hate speech
+2103,2153,not hate speech
+2104,2154,hate speech
+2105,2155,not hate speech
+2106,2156,hate speech
+2107,2157,hate speech
+2108,2158,not hate speech
+2109,2159,not hate speech
+2110,2160,not hate speech
+2111,2161,hate speech
+2112,2162,not hate speech
+2113,2163,not hate speech
+2114,2164,not hate speech
+2115,2165,not hate speech
+2116,2166,not hate speech
+2117,2167,not hate speech
+2118,2168,hate speech
+2119,2169,hate speech
+2120,2170,not hate speech
+2121,2171,not hate speech
+2122,2172,not hate speech
+2123,2173,hate speech
+2124,2174,hate speech
+2125,2175,hate speech
+2126,2176,not hate speech
+2127,2177,not hate speech
+2128,2178,hate speech
+2129,2179,not hate speech
+2130,2180,not hate speech
+2131,2181,not hate speech
+2132,2182,not hate speech
+2133,2183,not hate speech
+2134,2184,hate speech
+2135,2185,hate speech
+2136,2186,hate speech
+2137,2187,not hate speech
+2138,2188,not hate speech
+2139,2189,hate speech
+2140,2190,not hate speech
+2141,2191,not hate speech
+2142,2192,hate speech
+2143,2193,not hate speech
+2144,2194,not hate speech
+2145,2195,not hate speech
+2146,2196,hate speech
+2147,2197,not hate speech
+2148,2198,not hate speech
+2149,2199,hate speech
+2150,2200,not hate speech
+2151,2201,hate speech
+2152,2202,not hate speech
+2153,2203,hate speech
+2154,2204,hate speech
+2155,2205,hate speech
+2156,2206,not hate speech
+2157,2207,not hate speech
+2158,2208,not hate speech
+2159,2209,hate speech
+2160,2210,not hate speech
+2161,2211,not hate speech
+2162,2212,hate speech
+2163,2213,not hate speech
+2164,2214,hate speech
+2165,2215,hate speech
+2166,2216,hate speech
+2167,2217,hate speech
+2168,2218,not hate speech
+2169,2219,not hate speech
+2170,2220,not hate speech
+2171,2221,hate speech
+2172,2222,not hate speech
+2173,2223,not hate speech
+2174,2224,hate speech
+2175,2225,hate speech
+2176,2226,not hate speech
+2177,2227,hate speech
+2178,2228,not hate speech
+2179,2229,hate speech
+2180,2230,hate speech
+2181,2231,hate speech
+2182,2232,hate speech
+2183,2233,not hate speech
+2184,2234,not hate speech
+2185,2235,hate speech
+2186,2236,not hate speech
+2187,2237,not hate speech
+2188,2238,hate speech
+2189,2239,hate speech
+2190,2240,not hate speech
+2191,2241,not hate speech
+2192,2242,hate speech
+2193,2243,hate speech
+2194,2244,hate speech
+2195,2245,not hate speech
+2196,2246,hate speech
+2197,2247,not hate speech
+2198,2248,not hate speech
+2199,2249,not hate speech
+2200,2250,not hate speech
+2201,2251,hate speech
+2202,2252,hate speech
+2203,2253,hate speech
+2204,2254,hate speech
+2205,2255,hate speech
+2206,2256,not hate speech
+2207,2257,not hate speech
+2208,2258,not hate speech
+2209,2259,not hate speech
+2210,2260,hate speech
+2211,2261,hate speech
+2212,2262,not hate speech
+2213,2263,not hate speech
+2214,2264,not hate speech
+2215,2265,hate speech
+2216,2266,hate speech
+2217,2267,hate speech
+2218,2268,not hate speech
+2219,2269,not hate speech
+2220,2270,hate speech
+2221,2271,hate speech
+2222,2272,hate speech
+2223,2273,not hate speech
+2224,2274,hate speech
+2225,2275,not hate speech
+2226,2276,hate speech
+2227,2277,not hate speech
+2228,2278,not hate speech
+2229,2279,hate speech
+2230,2280,not hate speech
+2231,2281,hate speech
+2232,2282,hate speech
+2233,2283,hate speech
+2234,2284,not hate speech
+2235,2285,not hate speech
+2236,2286,hate speech
+2237,2287,not hate speech
+2238,2288,not hate speech
+2239,2289,not hate speech
+2240,2290,not hate speech
+2241,2291,not hate speech
+2242,2292,not hate speech
+2243,2293,hate speech
+2244,2294,not hate speech
+2245,2295,hate speech
+2246,2296,not hate speech
+2247,2297,hate speech
+2248,2298,hate speech
+2249,2299,not hate speech
+2250,2300,not hate speech
+2251,2301,not hate speech
+2252,2302,hate speech
+2253,2303,hate speech
+2254,2304,hate speech
+2255,2305,not hate speech
+2256,2306,hate speech
+2257,2307,not hate speech
+2258,2308,not hate speech
+2259,2309,not hate speech
+2260,2310,hate speech
+2261,2311,hate speech
+2262,2312,hate speech
+2263,2313,not hate speech
+2264,2314,not hate speech
+2265,2315,hate speech
+2266,2316,not hate speech
+2267,2317,not hate speech
+2268,2318,not hate speech
+2269,2319,hate speech
+2270,2320,not hate speech
+2271,2321,not hate speech
+2272,2322,not hate speech
+2273,2323,not hate speech
+2274,2324,not hate speech
+2275,2325,hate speech
+2276,2326,hate speech
+2277,2327,hate speech
+2278,2328,not hate speech
+2279,2329,not hate speech
+2280,2330,not hate speech
+2281,2331,hate speech
+2282,2332,not hate speech
+2283,2333,hate speech
+2284,2334,hate speech
+2285,2335,hate speech
+2286,2336,not hate speech
+2287,2337,not hate speech
+2288,2338,not hate speech
+2289,2339,hate speech
+2290,2340,hate speech
+2291,2341,not hate speech
+2292,2342,not hate speech
+2293,2343,not hate speech
+2294,2344,not hate speech
+2295,2345,not hate speech
+2296,2346,not hate speech
+2297,2347,hate speech
+2298,2348,not hate speech
+2299,2349,hate speech
+2300,2350,not hate speech
+2301,2351,hate speech
+2302,2352,hate speech
+2303,2353,not hate speech
+2304,2354,not hate speech
+2305,2355,not hate speech
+2306,2356,not hate speech
+2307,2357,not hate speech
+2308,2358,not hate speech
+2309,2359,hate speech
+2310,2360,hate speech
+2311,2361,not hate speech
+2312,2362,hate speech
+2313,2363,not hate speech
+2314,2364,not hate speech
+2315,2365,not hate speech
+2316,2366,hate speech
+2317,2367,not hate speech
+2318,2368,hate speech
+2319,2369,not hate speech
+2320,2370,not hate speech
+2321,2371,not hate speech
+2322,2372,not hate speech
+2323,2373,hate speech
+2324,2374,not hate speech
+2325,2375,hate speech
+2326,2376,not hate speech
+2327,2377,not hate speech
+2328,2378,not hate speech
+2329,2379,hate speech
+2330,2380,not hate speech
+2331,2381,hate speech
+2332,2382,hate speech
+2333,2383,not hate speech
+2334,2384,not hate speech
+2335,2385,not hate speech
+2336,2386,hate speech
+2337,2387,hate speech
+2338,2388,hate speech
+2339,2389,hate speech
+2340,2390,not hate speech
+2341,2391,not hate speech
+2342,2392,hate speech
+2343,2393,hate speech
+2344,2394,not hate speech
+2345,2395,hate speech
+2346,2396,hate speech
+2347,2397,not hate speech
+2348,2398,not hate speech
+2349,2399,not hate speech
+2350,2400,not hate speech
+2351,2401,not hate speech
+2352,2402,hate speech
+2353,2403,not hate speech
+2354,2404,hate speech
+2355,2405,hate speech
+2356,2406,not hate speech
+2357,2407,not hate speech
+2358,2408,hate speech
+2359,2409,not hate speech
+2360,2410,hate speech
+2361,2411,not hate speech
+2362,2412,not hate speech
+2363,2413,not hate speech
+2364,2414,not hate speech
+2365,2415,not hate speech
+2366,2416,not hate speech
+2367,2417,hate speech
+2368,2418,not hate speech
+2369,2419,not hate speech
+2370,2420,hate speech
+2371,2421,not hate speech
+2372,2422,not hate speech
+2373,2423,not hate speech
+2374,2424,not hate speech
+2375,2425,not hate speech
+2376,2426,not hate speech
+2377,2427,not hate speech
+2378,2428,not hate speech
+2379,2429,hate speech
+2380,2430,not hate speech
+2381,2431,hate speech
+2382,2432,hate speech
+2383,2433,not hate speech
+2384,2434,not hate speech
+2385,2435,not hate speech
+2386,2436,hate speech
+2387,2437,hate speech
+2388,2438,hate speech
+2389,2439,hate speech
+2390,2440,not hate speech
+2391,2441,hate speech
+2392,2442,hate speech
+2393,2443,hate speech
+2394,2444,hate speech
+2395,2445,not hate speech
+2396,2446,hate speech
+2397,2447,not hate speech
+2398,2448,not hate speech
+2399,2449,hate speech
+2400,2450,hate speech
+2401,2451,not hate speech
+2402,2452,not hate speech
+2403,2453,not hate speech
+2404,2454,not hate speech
+2405,2455,hate speech
+2406,2456,not hate speech
+2407,2457,not hate speech
+2408,2458,not hate speech
+2409,2459,not hate speech
+2410,2460,not hate speech
+2411,2461,hate speech
+2412,2462,not hate speech
+2413,2463,hate speech
+2414,2464,hate speech
+2415,2465,hate speech
+2416,2466,hate speech
+2417,2467,hate speech
+2418,2468,hate speech
+2419,2469,not hate speech
+2420,2470,hate speech
+2421,2471,not hate speech
+2422,2472,not hate speech
+2423,2473,not hate speech
+2424,2474,not hate speech
+2425,2475,hate speech
+2426,2476,hate speech
+2427,2477,hate speech
+2428,2478,not hate speech
+2429,2479,not hate speech
+2430,2480,hate speech
+2431,2481,not hate speech
+2432,2482,not hate speech
+2433,2483,not hate speech
+2434,2484,hate speech
+2435,2485,hate speech
+2436,2486,hate speech
+2437,2487,hate speech
+2438,2488,not hate speech
+2439,2489,hate speech
+2440,2490,not hate speech
+2441,2491,hate speech
+2442,2492,not hate speech
+2443,2493,hate speech
+2444,2494,hate speech
+2445,2495,not hate speech
+2446,2496,hate speech
+2447,2497,hate speech
+2448,2498,not hate speech
+2449,2499,not hate speech
+2450,2500,hate speech
+2451,2501,not hate speech
+2452,2502,hate speech
+2453,2503,not hate speech
+2454,2504,not hate speech
+2455,2505,not hate speech
+2456,2506,hate speech
+2457,2507,hate speech
+2458,2508,hate speech
+2459,2509,hate speech
+2460,2510,hate speech
+2461,2511,not hate speech
+2462,2512,not hate speech
+2463,2513,not hate speech
+2464,2514,hate speech
+2465,2515,not hate speech
+2466,2516,not hate speech
+2467,2517,not hate speech
+2468,2518,hate speech
+2469,2519,not hate speech
+2470,2520,not hate speech
+2471,2521,hate speech
+2472,2522,not hate speech
+2473,2523,hate speech
+2474,2524,hate speech
+2475,2525,not hate speech
+2476,2526,hate speech
+2477,2527,not hate speech
+2478,2528,hate speech
+2479,2529,not hate speech
+2480,2530,not hate speech
+2481,2531,hate speech
+2482,2532,not hate speech
+2483,2533,not hate speech
+2484,2534,hate speech
+2485,2535,not hate speech
+2486,2536,not hate speech
+2487,2537,not hate speech
+2488,2538,not hate speech
+2489,2539,not hate speech
+2490,2540,not hate speech
+2491,2541,hate speech
+2492,2542,not hate speech
+2493,2543,not hate speech
+2494,2544,not hate speech
+2495,2545,hate speech
+2496,2546,not hate speech
+2497,2547,hate speech
+2498,2548,not hate speech
+2499,2549,not hate speech
+2500,2550,hate speech
+2501,2551,not hate speech
+2502,2552,not hate speech
+2503,2553,hate speech
+2504,2554,not hate speech
+2505,2555,not hate speech
+2506,2556,not hate speech
+2507,2557,not hate speech
+2508,2558,not hate speech
+2509,2559,not hate speech
+2510,2560,not hate speech
+2511,2561,not hate speech
+2512,2562,hate speech
+2513,2563,hate speech
+2514,2564,hate speech
+2515,2565,not hate speech
+2516,2566,hate speech
+2517,2567,hate speech
+2518,2568,hate speech
+2519,2569,hate speech
+2520,2570,hate speech
+2521,2571,hate speech
+2522,2572,not hate speech
+2523,2573,hate speech
+2524,2574,not hate speech
+2525,2575,hate speech
+2526,2576,not hate speech
+2527,2577,not hate speech
+2528,2578,hate speech
+2529,2579,not hate speech
+2530,2580,not hate speech
+2531,2581,hate speech
+2532,2582,not hate speech
+2533,2583,hate speech
+2534,2584,not hate speech
+2535,2585,hate speech
+2536,2586,not hate speech
+2537,2587,hate speech
+2538,2588,not hate speech
+2539,2589,hate speech
+2540,2590,hate speech
+2541,2591,not hate speech
+2542,2592,not hate speech
+2543,2593,not hate speech
+2544,2594,hate speech
+2545,2595,hate speech
+2546,2596,not hate speech
+2547,2597,hate speech
+2548,2598,not hate speech
+2549,2599,hate speech
+2550,2600,hate speech
+2551,2601,hate speech
+2552,2602,hate speech
+2553,2603,hate speech
+2554,2604,hate speech
+2555,2605,hate speech
+2556,2606,hate speech
+2557,2607,not hate speech
+2558,2608,not hate speech
+2559,2609,not hate speech
+2560,2610,not hate speech
+2561,2611,hate speech
+2562,2612,not hate speech
+2563,2613,hate speech
+2564,2614,not hate speech
+2565,2615,not hate speech
+2566,2616,hate speech
+2567,2617,hate speech
+2568,2618,hate speech
+2569,2619,hate speech
+2570,2620,not hate speech
+2571,2621,not hate speech
+2572,2622,not hate speech
+2573,2623,hate speech
+2574,2624,not hate speech
+2575,2625,not hate speech
+2576,2626,not hate speech
+2577,2627,not hate speech
+2578,2628,not hate speech
+2579,2629,hate speech
+2580,2630,not hate speech
+2581,2631,hate speech
+2582,2632,not hate speech
+2583,2633,not hate speech
+2584,2634,not hate speech
+2585,2635,hate speech
+2586,2636,not hate speech
+2587,2637,hate speech
+2588,2638,not hate speech
+2589,2639,not hate speech
+2590,2640,hate speech
+2591,2641,hate speech
+2592,2642,hate speech
+2593,2643,not hate speech
+2594,2644,not hate speech
+2595,2645,not hate speech
+2596,2646,not hate speech
+2597,2647,hate speech
+2598,2648,not hate speech
+2599,2649,not hate speech
+2600,2650,not hate speech
+2601,2651,not hate speech
+2602,2652,hate speech
+2603,2653,not hate speech
+2604,2654,hate speech
+2605,2655,hate speech
+2606,2656,not hate speech
+2607,2657,hate speech
+2608,2658,not hate speech
+2609,2659,not hate speech
+2610,2660,not hate speech
+2611,2661,not hate speech
+2612,2662,not hate speech
+2613,2663,hate speech
+2614,2664,hate speech
+2615,2665,hate speech
+2616,2666,not hate speech
+2617,2667,hate speech
+2618,2668,hate speech
+2619,2669,not hate speech
+2620,2670,not hate speech
+2621,2671,not hate speech
+2622,2672,hate speech
+2623,2673,hate speech
+2624,2674,not hate speech
+2625,2675,not hate speech
+2626,2676,not hate speech
+2627,2677,hate speech
+2628,2678,hate speech
+2629,2679,not hate speech
+2630,2680,not hate speech
+2631,2681,hate speech
+2632,2682,hate speech
+2633,2683,not hate speech
+2634,2684,hate speech
+2635,2685,hate speech
+2636,2686,hate speech
+2637,2687,not hate speech
+2638,2688,not hate speech
+2639,2689,not hate speech
+2640,2690,not hate speech
+2641,2691,hate speech
+2642,2692,hate speech
+2643,2693,hate speech
+2644,2694,hate speech
+2645,2695,hate speech
+2646,2696,hate speech
+2647,2697,not hate speech
+2648,2698,not hate speech
+2649,2699,not hate speech
+2650,2700,hate speech
+2651,2701,not hate speech
+2652,2702,hate speech
+2653,2703,not hate speech
+2654,2704,hate speech
+2655,2705,not hate speech
+2656,2706,hate speech
+2657,2707,hate speech
+2658,2708,not hate speech
+2659,2709,not hate speech
+2660,2710,not hate speech
+2661,2711,hate speech
+2662,2712,not hate speech
+2663,2713,not hate speech
+2664,2714,hate speech
+2665,2715,hate speech
+2666,2716,hate speech
+2667,2717,not hate speech
+2668,2718,hate speech
+2669,2719,not hate speech
+2670,2720,not hate speech
+2671,2721,hate speech
+2672,2722,not hate speech
+2673,2723,not hate speech
+2674,2724,not hate speech
+2675,2725,not hate speech
+2676,2726,hate speech
+2677,2727,not hate speech
+2678,2728,not hate speech
+2679,2729,hate speech
+2680,2730,hate speech
+2681,2731,not hate speech
+2682,2732,hate speech
+2683,2733,not hate speech
+2684,2734,not hate speech
+2685,2735,hate speech
+2686,2736,hate speech
+2687,2737,hate speech
+2688,2738,hate speech
+2689,2739,hate speech
+2690,2740,not hate speech
+2691,2741,not hate speech
+2692,2742,not hate speech
+2693,2743,not hate speech
+2694,2744,hate speech
+2695,2745,not hate speech
+2696,2746,hate speech
+2697,2747,not hate speech
+2698,2748,hate speech
+2699,2749,hate speech
+2700,2750,hate speech
+2701,2751,not hate speech
+2702,2752,hate speech
+2703,2753,hate speech
+2704,2754,not hate speech
+2705,2755,hate speech
+2706,2756,not hate speech
+2707,2757,hate speech
+2708,2758,not hate speech
+2709,2759,not hate speech
+2710,2760,hate speech
+2711,2761,not hate speech
+2712,2762,not hate speech
+2713,2763,hate speech
+2714,2764,not hate speech
+2715,2765,hate speech
+2716,2766,hate speech
+2717,2767,not hate speech
+2718,2768,not hate speech
+2719,2769,not hate speech
+2720,2770,not hate speech
+2721,2771,not hate speech
+2722,2772,hate speech
+2723,2773,not hate speech
+2724,2774,hate speech
+2725,2775,not hate speech
+2726,2776,not hate speech
+2727,2777,not hate speech
+2728,2778,not hate speech
+2729,2779,hate speech
+2730,2780,not hate speech
+2731,2781,hate speech
+2732,2782,hate speech
+2733,2783,hate speech
+2734,2784,hate speech
+2735,2785,not hate speech
+2736,2786,not hate speech
+2737,2787,hate speech
+2738,2788,not hate speech
+2739,2789,not hate speech
+2740,2790,not hate speech
+2741,2791,hate speech
+2742,2792,not hate speech
+2743,2793,hate speech
+2744,2794,hate speech
+2745,2795,not hate speech
+2746,2796,not hate speech
+2747,2797,not hate speech
+2748,2798,not hate speech
+2749,2799,not hate speech
+2750,2800,not hate speech
+2751,2801,not hate speech
+2752,2802,hate speech
+2753,2803,not hate speech
+2754,2804,not hate speech
+2755,2805,not hate speech
+2756,2806,not hate speech
+2757,2807,not hate speech
+2758,2808,hate speech
+2759,2809,not hate speech
+2760,2810,not hate speech
+2761,2811,hate speech
+2762,2812,not hate speech
+2763,2813,not hate speech
+2764,2814,not hate speech
+2765,2815,hate speech
+2766,2816,not hate speech
+2767,2817,not hate speech
+2768,2818,not hate speech
+2769,2819,hate speech
+2770,2820,hate speech
+2771,2821,hate speech
+2772,2822,hate speech
+2773,2823,not hate speech
+2774,2824,not hate speech
+2775,2825,hate speech
+2776,2826,not hate speech
+2777,2827,hate speech
+2778,2828,hate speech
+2779,2829,not hate speech
+2780,2830,not hate speech
+2781,2831,not hate speech
+2782,2832,hate speech
+2783,2833,hate speech
+2784,2834,not hate speech
+2785,2835,not hate speech
+2786,2836,hate speech
+2787,2837,not hate speech
+2788,2838,not hate speech
+2789,2839,not hate speech
+2790,2840,not hate speech
+2791,2841,not hate speech
+2792,2842,not hate speech
+2793,2843,hate speech
+2794,2844,not hate speech
+2795,2845,not hate speech
+2796,2846,hate speech
+2797,2847,not hate speech
+2798,2848,hate speech
+2799,2849,not hate speech
+2800,2850,not hate speech
+2801,2851,hate speech
+2802,2852,hate speech
+2803,2853,hate speech
+2804,2854,hate speech
+2805,2855,not hate speech
+2806,2856,hate speech
+2807,2857,hate speech
+2808,2858,not hate speech
+2809,2859,hate speech
+2810,2860,not hate speech
+2811,2861,hate speech
+2812,2862,not hate speech
+2813,2863,not hate speech
+2814,2864,not hate speech
+2815,2865,hate speech
+2816,2866,not hate speech
+2817,2867,not hate speech
+2818,2868,not hate speech
+2819,2869,hate speech
+2820,2870,hate speech
+2821,2871,hate speech
+2822,2872,hate speech
+2823,2873,not hate speech
+2824,2874,hate speech
+2825,2875,hate speech
+2826,2876,hate speech
+2827,2877,not hate speech
+2828,2878,not hate speech
+2829,2879,hate speech
+2830,2880,not hate speech
+2831,2881,not hate speech
+2832,2882,not hate speech
+2833,2883,not hate speech
+2834,2884,not hate speech
+2835,2885,hate speech
+2836,2886,not hate speech
+2837,2887,hate speech
+2838,2888,not hate speech
+2839,2889,hate speech
+2840,2890,hate speech
+2841,2891,not hate speech
+2842,2892,hate speech
+2843,2893,not hate speech
+2844,2894,hate speech
+2845,2895,hate speech
+2846,2896,hate speech
+2847,2897,hate speech
+2848,2898,not hate speech
+2849,2899,not hate speech
+2850,2900,hate speech
+2851,2901,hate speech
+2852,2902,not hate speech
+2853,2903,hate speech
+2854,2904,not hate speech
+2855,2905,hate speech
+2856,2906,hate speech
+2857,2907,not hate speech
+2858,2908,hate speech
+2859,2909,hate speech
+2860,2910,not hate speech
+2861,2911,hate speech
+2862,2912,hate speech
+2863,2913,hate speech
+2864,2914,hate speech
+2865,2915,not hate speech
+2866,2916,hate speech
+2867,2917,not hate speech
+2868,2918,not hate speech
+2869,2919,not hate speech
+2870,2920,not hate speech
+2871,2921,hate speech
+2872,2922,not hate speech
+2873,2923,not hate speech
+2874,2924,not hate speech
+2875,2925,not hate speech
+2876,2926,not hate speech
+2877,2927,not hate speech
+2878,2928,hate speech
+2879,2929,not hate speech
+2880,2930,hate speech
+2881,2931,hate speech
+2882,2932,hate speech
+2883,2933,hate speech
+2884,2934,not hate speech
+2885,2935,not hate speech
+2886,2936,hate speech
+2887,2937,not hate speech
+2888,2938,hate speech
+2889,2939,not hate speech
+2890,2940,hate speech
+2891,2941,not hate speech
+2892,2942,hate speech
+2893,2943,not hate speech
+2894,2944,hate speech
+2895,2945,hate speech
+2896,2946,hate speech
+2897,2947,not hate speech
+2898,2948,hate speech
+2899,2949,hate speech
+2900,2950,hate speech
+2901,2951,hate speech
+2902,2952,not hate speech
+2903,2953,not hate speech
+2904,2954,hate speech
+2905,2955,not hate speech
+2906,2956,hate speech
+2907,2957,hate speech
+2908,2958,not hate speech
+2909,2959,hate speech
+2910,2960,not hate speech
+2911,2961,hate speech
+2912,2962,not hate speech
+2913,2963,hate speech
+2914,2964,not hate speech
+2915,2965,not hate speech
+2916,2966,hate speech
+2917,2967,not hate speech
+2918,2968,hate speech
+2919,2969,hate speech
+2920,2970,hate speech
+2921,2971,not hate speech
+2922,2972,not hate speech
+2923,2973,not hate speech
+2924,2974,hate speech
+2925,2975,not hate speech
+2926,2976,not hate speech
+2927,2977,not hate speech
+2928,2978,hate speech
+2929,2979,not hate speech
+2930,2980,hate speech
+2931,2981,hate speech
+2932,2982,not hate speech
+2933,2983,hate speech
+2934,2984,not hate speech
+2935,2985,hate speech
+2936,2986,hate speech
+2937,2987,hate speech
+2938,2988,hate speech
+2939,2989,hate speech
+2940,2990,hate speech
+2941,2991,not hate speech
+2942,2992,not hate speech
+2943,2993,not hate speech
+2944,2994,not hate speech
+2945,2995,hate speech
+2946,2996,hate speech
+2947,2997,hate speech
+2948,2998,not hate speech
+2949,2999,hate speech
+2950,3000,not hate speech
+2951,3001,not hate speech
+2952,3002,not hate speech
+2953,3003,not hate speech
+2954,3004,not hate speech
+2955,3005,not hate speech
+2956,3006,not hate speech
+2957,3007,not hate speech
+2958,3008,not hate speech
+2959,3009,hate speech
+2960,3010,hate speech
+2961,3011,hate speech
+2962,3012,hate speech
+2963,3013,not hate speech
+2964,3014,not hate speech
+2965,3015,hate speech
